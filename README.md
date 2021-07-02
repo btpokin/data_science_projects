@@ -12,3 +12,5 @@ This page lists a series of data science projects I've done. The current project
 3. Unsupervised learning done on wine tasting:
   - This was a small, quick personal project to see if I could cluster wine tasting "quality" ratings based on wine characteristics such as aciditiy, grape variety, etc.
 
+4. Neural Networks for Pneumonia detection:
+  - This project was the culmination of learning data science: I used a variety of neural networks (mainly Convolutional Neural Networks) in order to predict the likelihood that a patient had pneumonia based on lung x-rays. The model was found to have an accuracy of 90% with a low false negative rate.
